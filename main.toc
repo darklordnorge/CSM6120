@@ -2,63 +2,49 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Constraint Satisfaction Problem }{5}{chapter.1}
+\contentsline {chapter}{\numberline {1}In-text Elements}{5}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Citation}{5}{section.1.1}
+\contentsline {section}{\numberline {1.1}Theorems}{5}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Lists}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.1.1}Several equations}{5}{subsection.1.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}Numbered List}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.1.2}Single Line}{5}{subsection.1.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.2}Bullet Points}{5}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.2}Definitions}{5}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.3}Descriptions and Definitions}{5}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Notations}{6}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}In-text Elements}{7}{chapter.2}
+\contentsline {section}{\numberline {1.4}Remarks}{6}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Theorems}{7}{section.2.1}
+\contentsline {section}{\numberline {1.5}Corollaries}{6}{section.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Several equations}{7}{subsection.2.1.1}
+\contentsline {section}{\numberline {1.6}Propositions}{6}{section.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Single Line}{7}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {1.6.1}Several equations}{6}{subsection.1.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Definitions}{7}{section.2.2}
+\contentsline {subsection}{\numberline {1.6.2}Single Line}{6}{subsection.1.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Notations}{8}{section.2.3}
+\contentsline {section}{\numberline {1.7}Examples}{6}{section.1.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Remarks}{8}{section.2.4}
+\contentsline {subsection}{\numberline {1.7.1}Equation and Text}{6}{subsection.1.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Corollaries}{8}{section.2.5}
+\contentsline {subsection}{\numberline {1.7.2}Paragraph of Text}{7}{subsection.1.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Propositions}{8}{section.2.6}
+\contentsline {section}{\numberline {1.8}Exercises}{7}{section.1.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.1}Several equations}{8}{subsection.2.6.1}
+\contentsline {section}{\numberline {1.9}Problems}{7}{section.1.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.2}Single Line}{8}{subsection.2.6.2}
+\contentsline {section}{\numberline {1.10}Vocabulary}{7}{section.1.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Examples}{8}{section.2.7}
+\contentsline {chapter}{\numberline {2}5}{9}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.1}Equation and Text}{8}{subsection.2.7.1}
+\contentsline {section}{\numberline {2.1}Theorems}{9}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7.2}Paragraph of Text}{9}{subsection.2.7.2}
+\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{11}{chapter*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.8}Exercises}{9}{section.2.8}
+\contentsline {section}{Books}{11}{section*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.9}Problems}{9}{section.2.9}
+\contentsline {section}{Articles}{11}{section*.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.10}Vocabulary}{9}{section.2.10}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Presenting Information}{11}{chapter.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Table}{11}{section.3.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Figure}{11}{section.3.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{13}{chapter*.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Books}{13}{section*.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Articles}{13}{section*.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{15}{section*.5}
+\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{13}{section*.5}
 \contentsfinish 
