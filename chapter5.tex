@@ -1,0 +1,116 @@
+AI agents deal with knowledge(data).
+\begin{itemize}
+\item Facts
+\item Procedures
+\item Meaning (relate \& define knowledge)
+\end{itemize}
+
+Right representation is crucial 
+\begin{itemize}
+\item Early realisation in AI
+\item Wrong choice can lead to project failure
+\item Active research area
+\end{itemize}
+
+\subsection{Choosing a representation}
+For certain problem solving techniques.
+\begin{itemize}
+\item Best representation already known
+\item Often a requirement of the technique
+\item Or a requirement of the programming language(e.g. Prolog)
+\end{itemize}
+
+Representation of:
+\begin{itemize}
+\item Declarative knowledge(what, objects, structure)
+\item Procedural knowledge(how, actions, performance)
+\end{itemize}
+
+\section{Aspects of Knowledge representation}
+Syntax:
+\begin{itemize}
+\item Possible (allowed) constructions
+\item For example: colour(my\_car, red), my\_car(red), red(my\_car), etc.
+\end{itemize}
+
+Semantics:
+\begin{itemize}
+\item What the representation \textbf{means} (and how it maps to the real world)
+\item Example:
+\begin{itemize}
+\item Colour(my\_car, red) means: "my car is red", "paint my car red", etc.
+\end{itemize}
+\end{itemize}
+
+Requirements for Knowledge Representation languages:\\
+Representation adequacy:\\
+\begin{itemize}
+\item Should allow for representing all the required knowledge
+\end{itemize}
+Infernal adequacy:\\
+
+Inferential efficiency:\\
+
+Clear syntax and semantics:\\
+
+Neutralness:\\
+
+\section{What is a Logic}
+A language with concrete rules.\\
+No ambiguity in representation, however there may be errors. Allows for unambiguous communication and processing. \\
+Is very unlike natural languages like e.g. English.\\
+
+\subsection{Non-logical representation}
+Logic representation have restrictions and can be hard to work with.
+
+\subsection{What we've ignored}
+Objects in the world tend to be related to each other.
+\begin{itemize}
+\item Classes, superclasses \& subclasses, part / whole hierarchies
+\item Properties are \textit{inherited} across relationships
+\end{itemize}
+
+The state of the world can change over time.
+\begin{itemize}
+\item Explicit representation of time
+\item Frame problem: representing the effects of action in logic without having to represent explicitly a large number of intuitive obvious non-effects
+\item Non-monotonic reasoning
+\end{itemize}
+
+We must reason without complete knowledge
+\begin{itemize}
+\item Closed world assumption
+\end{itemize}
+
+Not all knowledge is "black \& white":
+\begin{itemize}
+\item Uncertainty, statistics, fuzzy logic,...
+\end{itemize}
+
+Defaults and exceptions:\\
+Exception for a single object, a property of the object must be set to the (exception) value.\\
+
+\section{Semantic Networks}
+Semantic networks are essentially a generalization of inheritance hierarchies.\\
+Each node is an object, class, concept, or event. \\
+
+Each link is a relationship.
+\begin{itemize}
+\item is-a (the usual sublcass or element relationship
+\item has-part or part-of
+\item any other relationship that makes sense in context(e.g. owns thing x)
+\end{itemize}
+
+Semantic networks represent knowledge as a network or graph(easily stored on the computer). 
+By traversing the network we can find:
+\begin{itemize}
+\item Elephant x likes apples(by inheritance)
+\item That certain concepts related in certain ways(e.g. apples and elephants)
+\end{itemize}
+
+
+
+
+
+
+
