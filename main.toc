@@ -12,21 +12,33 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.1}Choosing a representation}{7}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Aspects of Knowledge representation}{7}{section.2.2}
+\contentsline {subsubsection}{Declarative examples}{8}{section*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}What is a Logic}{8}{section.2.3}
+\contentsline {subsubsection}{Procedural example}{8}{section*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Non-logical representation}{8}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.2}Aspects of Knowledge representation}{8}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}What we've ignored}{8}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.2.1}Well-defined syntax/semantics}{8}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Semantic Networks}{8}{section.2.4}
+\contentsline {subsection}{\numberline {2.2.2}Requirements for Knowledge Representation languages:}{9}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{11}{chapter*.2}
+\contentsline {section}{\numberline {2.3}What is a Logic?}{9}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Books}{11}{section*.3}
+\contentsline {subsection}{\numberline {2.3.1}Non-logical representation}{9}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Articles}{11}{section*.4}
+\contentsline {subsection}{\numberline {2.3.2}What we've ignored}{9}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{13}{section*.5}
+\contentsline {section}{\numberline {2.4}Semantic Networks}{10}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Frames}{10}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}Frame representation}{10}{subsection.2.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\leavevmode {\color {ocre}Bibliography}}{11}{chapter*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Books}{11}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Articles}{11}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{13}{section*.7}
 \contentsfinish 

@@ -4,11 +4,15 @@
 \BOOKMARK [1][-]{section.2.1}{Representation}{chapter.2}% 4
 \BOOKMARK [2][-]{subsection.2.1.1}{Choosing a representation}{section.2.1}% 5
 \BOOKMARK [1][-]{section.2.2}{Aspects of Knowledge representation}{chapter.2}% 6
-\BOOKMARK [1][-]{section.2.3}{What is a Logic}{chapter.2}% 7
-\BOOKMARK [2][-]{subsection.2.3.1}{Non-logical representation}{section.2.3}% 8
-\BOOKMARK [2][-]{subsection.2.3.2}{What we've ignored}{section.2.3}% 9
-\BOOKMARK [1][-]{section.2.4}{Semantic Networks}{chapter.2}% 10
-\BOOKMARK [0][-]{chapter*.2}{Bibliography}{}% 11
-\BOOKMARK [1][-]{section*.3}{Books}{chapter*.2}% 12
-\BOOKMARK [1][-]{section*.4}{Articles}{chapter*.2}% 13
-\BOOKMARK [0][-]{section*.5}{Index}{}% 14
+\BOOKMARK [2][-]{subsection.2.2.1}{Well-defined syntax/semantics}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.2}{Requirements for Knowledge Representation languages:}{section.2.2}% 8
+\BOOKMARK [1][-]{section.2.3}{What is a Logic?}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.3.1}{Non-logical representation}{section.2.3}% 10
+\BOOKMARK [2][-]{subsection.2.3.2}{What we've ignored}{section.2.3}% 11
+\BOOKMARK [1][-]{section.2.4}{Semantic Networks}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.5}{Frames}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.5.1}{Frame representation}{section.2.5}% 14
+\BOOKMARK [0][-]{chapter*.4}{Bibliography}{}% 15
+\BOOKMARK [1][-]{section*.5}{Books}{chapter*.4}% 16
+\BOOKMARK [1][-]{section*.6}{Articles}{chapter*.4}% 17
+\BOOKMARK [0][-]{section*.7}{Index}{}% 18

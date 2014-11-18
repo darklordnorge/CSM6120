@@ -1,7 +1,7 @@
 AI agents deal with knowledge(data).
 \begin{itemize}
-\item Facts
-\item Procedures
+\item Facts(believe \& observe knowledge)
+\item Procedures("how to" knowledge)
 \item Meaning (relate \& define knowledge)
 \end{itemize}
 
@@ -20,11 +20,50 @@ For certain problem solving techniques.
 \item Or a requirement of the programming language(e.g. Prolog)
 \end{itemize}
 
+Examples:\\
+First order theorem proving(first order logic), Inductive logic programming(logic programs) and Neural network learning(neural networks). \\
+
+Some of the general representation schemes are suitable for many different(and new) AI applications. \\
+
 Representation of:
 \begin{itemize}
 \item Declarative knowledge(what, objects, structure)
 \item Procedural knowledge(how, actions, performance)
 \end{itemize}
+
+Representation formalisms
+\begin{itemize}
+\item Declarative knowledge
+\begin{itemize}
+\item Frames, Semantic Networks, Inheritance Hierarchies, Schemata,...
+\end{itemize}
+\item Procedural knowledge
+\begin{itemize}
+\item Algorithms, Procedures, Planes, Rules,...
+\end{itemize}
+\end{itemize}
+
+\subsubsection{Declarative examples}
+Information about items in a store:\\
+\begin{lstlisting}
+cheaper(coca_cola, pepsi)
+tastier(coca_cola, pepsi)
+
+if(cheaper(x, y) && (tastier(x, y))
+	then but(x)
+\end{lstlisting}
+
+\subsubsection{Procedural example}
+Shopping script:
+\begin{enumerate}
+\item Make a list of all items to buy
+\item Walk to the shop
+\item For each item on the list, get the item and add it to the shopping
+\item Walk to the checkout counter
+\item Pack the items
+\item Pay
+\item Walk home
+\end{enumerate}
 
 \section{Aspects of Knowledge representation}
 Syntax:
@@ -42,26 +81,70 @@ Semantics:
 \end{itemize}
 \end{itemize}
 
-Requirements for Knowledge Representation languages:\\
-Representation adequacy:\\
+Inference:
+\begin{itemize}
+\item The interpreter
+\item Decides what kind of conclusions can be drawn
+\item For example: Modus ponens($P, P \rightarrow Q, therefore Q$)
+\end{itemize}
+
+\subsection{Well-defined syntax/semantics}
+Knowledge representation languages should have precise syntax and semantics.\\
+You must know exactly what an expression means in terms of object in the real world.\\
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.6\textwidth]{chap_5Pics/Selection_018.png} 
+\caption{Knowledge representation syntax/semantics}
+\end{figure}
+
+
+\subsection{Requirements for Knowledge Representation languages:}
+Representation adequacy:
 \begin{itemize}
 \item Should allow for representing all the required knowledge
 \end{itemize}
-Infernal adequacy:\\
 
-Inferential efficiency:\\
+Infernal adequacy:
+\begin{itemize}
+\item Should allow the inference of new knowledge
+\end{itemize}
 
-Clear syntax and semantics:\\
+Inferential efficiency:
+\begin{itemize}
+\item Inferring new knowledge should be efficient
+\end{itemize}
 
-Neutralness:\\
+Clear syntax and semantics:
+\begin{itemize}
+\item Unambiguous and well-defined
+\end{itemize}
 
-\section{What is a Logic}
+Neutralness:
+\begin{itemize}
+\item Easy to read and use
+\end{itemize}
+
+\section{What is a Logic?}
 A language with concrete rules.\\
 No ambiguity in representation, however there may be errors. Allows for unambiguous communication and processing. \\
 Is very unlike natural languages like e.g. English.\\
+Many ways to translate between languages\ a statement can be represented in different logics, and possibly differently in same logic. \\
+
+It should not be confused with logical reasoning, logic are languages, reasoning is a process(which may use logic).
 
 \subsection{Non-logical representation}
 Logic representation have restrictions and can be hard to work with.
+Many AI researches searched for better representations.\\
+
+Non-logical:
+\begin{itemize}
+\item Semantic networks
+\item Conceptual graphs
+\item Frames
+\item Scripts
+\item Production rules
+\item ...
+\end{itemize} 
 
 \subsection{What we've ignored}
 Objects in the world tend to be related to each other.
